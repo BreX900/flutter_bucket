@@ -29,7 +29,7 @@ Shift+P+CMD = Lista dei comandi per comodità CMD
 
 1. Nel menu in basso seleziona 'Terminal' e digita i seguinti comandi (**attendi che il precedente abbai finito**):
   - flutter clean
-  - flutter build ios release
+  - flutter build ios --release
 
 ## Pubblica la build
 
